@@ -160,7 +160,7 @@ A continuación se enlistan los prerrequisitos para poder ejecutar el proyecto:
 </div>
 
 Para ver una explicación mas detallada de todo lo que puede hacer este proyecto, puedes leer el siguiente pdf el cual es el reporte que realice de mi proyecto:
-[Reporte de simon roni](REPORTE/Reporte_simonTroni_byDavidRoniHernandezBeltran.pdf)
+[Reporte de simon roni](1_reporte/Reporte_simonTroni_byDavidRoniHernandezBeltran.pdf)
 
 
 
@@ -177,7 +177,7 @@ El funcionamiento del juego es muy sencillo, se prende una secuencia de leds y e
 
 
 Para ver una explicación mas detallada de todo lo que puede hacer este proyecto, puedes leer el siguiente pdf el cual es el reporte que realice de mi proyecto:
-[Reporte de simon roni](REPORTE/Reporte_simonTroni_byDavidRoniHernandezBeltran.pdf)
+[Reporte de simon roni](1_reporte/Reporte_simonTroni_byDavidRoniHernandezBeltran.pdf)
 
 
 
